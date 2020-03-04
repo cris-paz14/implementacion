@@ -504,7 +504,7 @@
                     else if (validar_tamaño (formulario_man.apellido.value)==false){
                         document.getElementById("alerta").innerHTML='<div class="alert alert-danger"><a href="" class="close" data-dismiss="alert">&times;</a>LIMITE DE CARACTERES EN EL CAMPO APELLIDOS</div>';
                         formulario_man.apellido.focus();
-                        formulario_man.apellido.value="";
+                
                         return false;
                         }
                       
