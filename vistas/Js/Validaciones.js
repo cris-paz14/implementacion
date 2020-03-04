@@ -548,8 +548,6 @@
        
     formulario_man.submit();
 }
-                      
-                        
                     
 //VALIDAR FORMULARIO CAMBIAR CONTRASEÑA
              function Validar_rescambiar() {
